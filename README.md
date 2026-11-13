@@ -19,7 +19,7 @@ doesn't name any.
 
 | Stage | Play | Needs first | Applied |
 | --- | --- | --- | --- |
-| 1. Plan | Capture as `intent.md` | None | |
+| 1. Plan | Capture as `intent.md` | None | ✓ [first intent](intent/001-first-two-missions/intent.md) |
 | 2. Design | Requirements and design (`spec.md`) | `intent.md`; policies written as skills | |
 | 3. Build | Plan mode as the starting point (`plan.md`) | `intent.md` or `spec.md` if one exists; `CLAUDE.md` helps | |
 | 3. Build | Auto mode | – | |
